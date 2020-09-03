@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Web-Development-Projects-and-Experiments/robofriends-react-app/static/css/main.aced20aa.chunk.css",
+    "main.js": "/Web-Development-Projects-and-Experiments/robofriends-react-app/static/js/main.a45c44e1.chunk.js",
+    "main.js.map": "/Web-Development-Projects-and-Experiments/robofriends-react-app/static/js/main.a45c44e1.chunk.js.map",
+    "runtime-main.js": "/Web-Development-Projects-and-Experiments/robofriends-react-app/static/js/runtime-main.3820c48c.js",
+    "runtime-main.js.map": "/Web-Development-Projects-and-Experiments/robofriends-react-app/static/js/runtime-main.3820c48c.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/Web-Development-Projects-and-Experiments/robofriends-react-app/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.e7e24cc0.chunk.js": "/Web-Development-Projects-and-Experiments/robofriends-react-app/static/js/2.e7e24cc0.chunk.js",
+    "static/js/2.e7e24cc0.chunk.js.map": "/Web-Development-Projects-and-Experiments/robofriends-react-app/static/js/2.e7e24cc0.chunk.js.map",
+    "index.html": "/Web-Development-Projects-and-Experiments/robofriends-react-app/index.html",
+    "precache-manifest.c94c939fe53245fa53370dcc054095cd.js": "/Web-Development-Projects-and-Experiments/robofriends-react-app/precache-manifest.c94c939fe53245fa53370dcc054095cd.js",
+    "service-worker.js": "/Web-Development-Projects-and-Experiments/robofriends-react-app/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/Web-Development-Projects-and-Experiments/robofriends-react-app/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.aced20aa.chunk.css.map": "/Web-Development-Projects-and-Experiments/robofriends-react-app/static/css/main.aced20aa.chunk.css.map",
+    "static/js/2.e7e24cc0.chunk.js.LICENSE.txt": "/Web-Development-Projects-and-Experiments/robofriends-react-app/static/js/2.e7e24cc0.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Web-Development-Projects-and-Experiments/robofriends-react-app/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3820c48c.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.e7e24cc0.chunk.js",
+    "static/css/main.aced20aa.chunk.css",
+    "static/js/main.a45c44e1.chunk.js"
+  ]
+}
