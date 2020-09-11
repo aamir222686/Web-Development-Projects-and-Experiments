@@ -11,6 +11,9 @@ Project showcase using HTML, CSS, JS, React.js and Node.js
   <b>Robots Generated Using <i>RoboHash</i> :</b> https://robohash.org/ <br> <b>User Details Generated Using <i>JSONPlaceholder</i> :</b> https://jsonplaceholder.typicode.com/ </p>
   
   <h3> Project 3: Fullstack Showcase: Face Find </h3>
-<a href='https://dashboard.heroku.com/apps/face-find-react-app' target="_blank"> Click Here To View The Project.</a>
+<a href='https://face-find-react-app.herokuapp.com/' target="_blank"> Click Here To View The Project.</a>
 <p> Face Recognition Application built using React.js on the front end, Node.js, Express.js on the backend and using PostgreSQL as the database. App is deployed on Heroku.<br><br>
-  <b>Face Recodnition API used: <i>clarifai</i> :</b>https://www.clarifai.com/</p>
+  <b>Face Recodnition API used: <i>clarifai</i> :</b>https://www.clarifai.com/ <br>
+  <b>Frontend Code Repo:</b>https://github.com/aamir222686/face-recognition-react-app<br>
+  <b>Backend API Code Repo:</b>https://github.com/aamir222686/smart-brain-api
+</p>
