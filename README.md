@@ -19,6 +19,6 @@ Project showcase using HTML, CSS, JS, React.js and Node.js
 </p>
 
 
-<h3> Project 2: Quote Generator </h3>
+<h3> Project 4: Quote Generator </h3>
 <a href='https://aamir222686.github.io/Web-Development-Projects-and-Experiments/quote-generator/' target="_blank"> Click Here To View The Project.</a>
 <p> Created using pure javascript with custom loading anim.</p>
