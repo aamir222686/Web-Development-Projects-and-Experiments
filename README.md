@@ -25,7 +25,7 @@ Project showcase using HTML, CSS, JS, React.js and Node.js
 
 <h2> Project 5: Infinite Scroll - Using Unsplash API </h2>
 <a href='https://aamir222686.github.io/Web-Development-Projects-and-Experiments/infinite-scroll-unsplash-api/' target="_blank"> Click Here To View The Project.</a>
-<p> Infinite Scrolling Using pure javascript DOM. Made using Unsplash API for pictures. </p><br><br>
+<p> Infinite Scrolling Using pure javascript DOM. Made using Unsplash API for pictures. </p><br>
 <b>Unsplash API:</b>https://unsplash.com/developers
 
 <h2> Project 6: Picture In Picture</h2>
