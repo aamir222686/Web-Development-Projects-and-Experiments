@@ -17,3 +17,8 @@ Project showcase using HTML, CSS, JS, React.js and Node.js
   <b>Frontend Code Repo:</b>https://github.com/aamir222686/face-recognition-react-app<br>
   <b>Backend API Code Repo:</b>https://github.com/aamir222686/smart-brain-api
 </p>
+
+
+<h3> Project 4: Quote Generator </h3>
+<a href='https://aamir222686.github.io/Web-Development-Projects-and-Experiments/quote-generator/' target="_blank"> Click Here To View The Project.</a>
+<p> Created using pure javascript with custom loading anim.</p>
