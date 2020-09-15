@@ -29,4 +29,11 @@ Project showcase using HTML, CSS, JS, React.js and Node.js
 
 <h2> Project 6: Picture In Picture</h2>
 <a href='https://aamir222686.github.io/Web-Development-Projects-and-Experiments/picture-in-picture/' target="_blank"> Click Here To View The Project.</a>
-<p> Simple page which enables PIP for any browser window. </p><br><br>
+<p> Simple page which enables PIP for any browser window. </p>
+
+<h2> Project 7: Joke Teller Using Text to Speech API</h2>
+<a href='https://aamir222686.github.io/Web-Development-Projects-and-Experiments/joke-teller-text-to-voice/' target="_blank"> Click Here To View The Project.</a>
+<p> A fun web app that tells joke. Here 2 different API's are used, one for Joke Generation in JSON format and then that text is processed by a text to speech API <br>
+  <br>
+  <b>Text To Speech API:</b>http://www.voicerss.org/ <br>
+  <b>Joke Generation API:</b>https://sv443.net/jokeapi/v2/</p>
