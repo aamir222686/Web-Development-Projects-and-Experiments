@@ -38,6 +38,10 @@ Project showcase using HTML, CSS, JS, React.js and Node.js
   <b>Text To Speech API:</b>http://www.voicerss.org/ <br>
   <b>Joke Generation API:</b>https://sv443.net/jokeapi/v2/</p>
   
-  <h2> Project 8: Dark Mode Switch with Local Storage</h2>
+<h2> Project 8: Dark Mode Switch with Local Storage</h2>
 <a href='https://aamir222686.github.io/Web-Development-Projects-and-Experiments/dark-mode-html-css-template/index.html#home' target="_blank"> Click Here To View The Project.</a>
 <p> A single page website with Dark Mode capability that can be used as a template for simple portfolio.</p>
+
+<h2> Project 9: Chat Room with Firebase</h2>
+<a href='https://chatroom-aamir.herokuapp.com/' target="_blank"> Click Here To View The Project.</a>
+<p> Online chat room with sign in and backend handled with firebase with google auth and firestore</p>
