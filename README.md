@@ -37,3 +37,7 @@ Project showcase using HTML, CSS, JS, React.js and Node.js
   <br>
   <b>Text To Speech API:</b>http://www.voicerss.org/ <br>
   <b>Joke Generation API:</b>https://sv443.net/jokeapi/v2/</p>
+  
+  <h2> Project 8: Dark Mode Switch with Local Storage</h2>
+<a href='https://aamir222686.github.io/Web-Development-Projects-and-Experiments/dark-mode-html-css-template/index.html#home' target="_blank"> Click Here To View The Project.</a>
+<p> A single page website with Dark Mode capability that can be used as a template for simple portfolio.</p>
